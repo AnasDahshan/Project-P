@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "257877760547",
+    "project_id": "project-p-57f8f",
+    "storage_bucket": "project-p-57f8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257877760547:android:ab01ff8ded555514bfaf96",
+        "android_client_info": {
+          "package_name": "com.parking.project_p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257877760547-b82keavsk15bilh2nk7k5pa39166k9o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGcVARWe_RBYVULfK5e-sYLvpOPg8pao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257877760547-b82keavsk15bilh2nk7k5pa39166k9o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257877760547-2p6v72f1f6813498725u0b47hh02kdgl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.projectp.projectPApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257877760547:android:d4c697416d0d2570bfaf96",
+        "android_client_info": {
+          "package_name": "com.projectp.project_p_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257877760547-b82keavsk15bilh2nk7k5pa39166k9o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfGcVARWe_RBYVULfK5e-sYLvpOPg8pao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257877760547-b82keavsk15bilh2nk7k5pa39166k9o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257877760547-2p6v72f1f6813498725u0b47hh02kdgl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.projectp.projectPApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
