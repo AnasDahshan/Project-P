@@ -1,4 +1,4 @@
-### 📌 Project-P  
+![payment](https://github.com/user-attachments/assets/93b5c647-34f5-4f54-8af7-f76f60c87622)### 📌 Project-P  
 
 Welcome to the **Project-P** repository! 🚗💨  
 
@@ -34,29 +34,30 @@ https://github.com/user-attachments/assets/95e0c06a-6ac9-4c18-8bcb-bb4c1b90d62b
 
 Here are some **screenshots** to showcase the core functionalities of **Project-P**:  
 
-### Splash Screens
+### 🎬 Splash Screens
+🚀 Introducing Project-P with an engaging onboarding experience
 
-
+![Splash Screen](images/splash.png)
 
 ### 🏠 Home Screen  
 📍 Displays an interactive map and lists nearby parking spots  
 
-_(Placeholder for Homepage image)_
+![Home Screen](images/homepage.png)
 
 ### 🗓 Booking & Selection  
 🚗 Select and book a parking spot with real-time availability  
 
-_(Placeholder for booking image)_
+![Booking screen](images/booking.png)
 
 ### 💳 Payment System  
 🔒 Secure payment integration with multiple options  
 
-_(Placeholder for payment image)_
+![Payment screen](images/payment.png)
 
 ### ⏳ Time Expiry & Alerts  
 🔔 Get notified when your parking session is ending  
 
-_(Placeholder for time-up image)_
+![Expire screen](images/expire.png)
 
 ---
 
