@@ -1,4 +1,4 @@
-![payment](https://github.com/user-attachments/assets/93b5c647-34f5-4f54-8af7-f76f60c87622)### 📌 Project-P  
+### 📌 Project-P  
 
 Welcome to the **Project-P** repository! 🚗💨  
 
@@ -57,7 +57,7 @@ Here are some **screenshots** to showcase the core functionalities of **Project-
 ### ⏳ Time Expiry & Alerts  
 🔔 Get notified when your parking session is ending  
 
-![Expire screen](images/expire.png)
+![Expire screen](images/expired.png)
 
 ---
 
